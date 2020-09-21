@@ -1,2 +1,2 @@
-# class-example
+# class-repository
 na
